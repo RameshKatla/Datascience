@@ -1,0 +1,7 @@
+Aspirations:
+
+I have idea about the R,Python & Spark concepts ,but by end of this course complete, I should be confident about using algoirthms in R,Python and Spark on Bigdata and use these algorithms in Qlikview & Tableau tools.
+
+Individual Project: I would like to work on Time series prediction on financial data.
+
+Group Project: I am interested to work on either NLP or Recommendation systems.
