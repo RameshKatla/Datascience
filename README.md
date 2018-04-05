@@ -1,2 +1,2 @@
-# IndustryResearch
-Datascience Industry Research
+# DSLA
+Data Science Course
